@@ -1,0 +1,5 @@
+tacoreader==0.5.3
+rasterio
+numpy
+pandas
+matplotlib

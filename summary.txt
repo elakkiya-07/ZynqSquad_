@@ -1,0 +1,7 @@
+Tiles analysed: 200 (from 50 CloudSEN12 high-quality patches)
+Pixels: 13,107,200
+Discard, cloud-only rule (>=70%):    27.5 %
+Discard, cloud+water rule (>=70%):   33.0 %
+cloud+water discard at 60%: 38.5 %
+cloud+water discard at 70%: 33.0 %
+cloud+water discard at 80%: 27.5 %
