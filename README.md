@@ -29,13 +29,14 @@ dropped before it is stored when cloud + water cover at least 70% of it. Target 
 
 Only 15 of the 200 tiles lie between 65% and 75%, where a classifier error could change the decision.
 
-![Distribution](figures/hist.png)
-![Example tiles](figures/demo_tiles.png)
+![Distribution]<img width="895" height="606" alt="image" src="https://github.com/user-attachments/assets/026b9d4e-0f85-4c18-a09c-94caab6a1838" />
+
+![Example tiles] <img width="958" height="635" alt="image" src="https://github.com/user-attachments/assets/45cf3e8e-af50-4705-9a99-eff8727e57a4" />
+
 
 ## Architecture
 
-![Architecture](figures/fig1a_architecture.png)
-
+![Architecture]
 Per-tile flow: `figures/fig1b_flowchart.png`.
 
 ## Repository layout
